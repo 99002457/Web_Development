@@ -1,4 +1,7 @@
 # Web_Development
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/0f2cfc414ce840409888c89cce8b966e)](https://app.codacy.com/gh/99002457/Web_Development?utm_source=github.com&utm_medium=referral&utm_content=99002457/Web_Development&utm_campaign=Badge_Grade)
+
 ![Build](https://github.com/99002457/Web_Development/workflows/Build/badge.svg) ![Selenium](https://github.com/99002457/Web_Development/workflows/Selenium/badge.svg) ![Express](https://github.com/99002457/Web_Development/workflows/Express/badge.svg) ![Postman](https://github.com/99002457/Web_Development/workflows/Postman/badge.svg)
 
 Contributers: Dhanashree S, Akshatha, Chethan G C

@@ -29,5 +29,6 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Insatll dependencies
         run: |
-          echo Add other actions to build,
-          echo test, and deploy your project.
+          npm install -g express
+          npm install -g moment 
+          

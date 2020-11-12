@@ -3,7 +3,7 @@
 
 Contributers: Dhanashree S, Akshatha, Chethan G C
 
-Simple Chat-Cord that users node,express, socket.io and moment
+Simple Chat-Cord that uses node,express, socket.io and moment
  
 Steps to run the project (With super user privilages #sudo)
 1. npm init

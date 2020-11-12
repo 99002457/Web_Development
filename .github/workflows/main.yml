@@ -30,7 +30,6 @@ jobs:
       - name: Insatll dependencies
         run: |
           cd Implementation
-          sudo npm init
           sudo npm install -g express --save
           sudo npm install -g moment --save
           sudo npm install -g socket.io --save
